@@ -8,5 +8,5 @@ I'm interested in natural language processing, computer vision, and computationa
 
 ## 🌐 Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat)]((https://www.linkedin.com/in/ramtin-kivi/))
-[![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=flat&logo=googlescholar&logoColor=white)]((https://scholar.google.com/citations?user=bvxWSooAAAAJ&hl=en))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat)](https://www.linkedin.com/in/ramtin-kivi/)
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=flat&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=bvxWSooAAAAJ&hl=en)
