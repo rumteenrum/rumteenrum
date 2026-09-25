@@ -6,13 +6,6 @@
 
 I'm interested in natural language processing, computer vision, and computational social science. My work includes transformer-based text summarization, evaluating language models, medical image classification, and modelling social interactions.
 
-## 🛠️ Tools
-
-**Languages:** Python · R · SQL  
-**Machine learning:** PyTorch · TensorFlow · scikit-learn  
-**Data analysis:** pandas · NumPy  
-**Development:** Git · Linux · Jupyter
-
 <!--
 To display social buttons, replace the placeholder URLs below with your profile URLs,
 then remove this opening comment and the closing comment after the buttons.
